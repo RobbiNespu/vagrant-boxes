@@ -41,6 +41,7 @@ The following can be customized:
 * `ORACLE_SID`: `ORCLCDB`
 * `ORACLE_PDB`: `ORCLPDB1`
 * `ORACLE_CHARACTERSET`: `AL32UTF8`
+* `ORACLE_EDITION`: `EE` | `SE2`
 
 ## Known issues
 None.
