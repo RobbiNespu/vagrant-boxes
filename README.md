@@ -25,7 +25,9 @@ A vagrant box that provisions Oracle Database automatically, using Vagrant, an O
 * All passwords are `password`
 
 ## Acknowledgements
-Based on @steveswinsburg's work here: https://github.com/steveswinsburg/oracle12c-vagrant
+Based on:
+@steveswinsburg's work here: https://github.com/steveswinsburg/oracle12c-vagrant  
+@totalamateurhour's work here: https://github.com/totalamateurhour/oracle-12.2-vagrant
 
 ## Other info
 
