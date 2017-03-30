@@ -11,8 +11,8 @@ A vagrant box that provisions Oracle Database automatically, using Vagrant, an O
 3. Download the installation zip files from OTN into this folder - first time only (see #5):
 [http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)
 4. Run `vagrant up`
-  i. The first time you run this it will provision everything and may take a while. Ensure you have a good internet connection!
-  ii. The Vagrant file allows for customization, if desired (see [Customization](#Customization)
+   1. The first time you run this it will provision everything and may take a while. Ensure you have a good internet connection!
+   2. The Vagrant file allows for customization, if desired (see [Customization](#Customization))
 5. Connect to the database.
 6. You can shut down the box via the usual `vagrant halt` and the start it up again via `vagrant up`.
 
