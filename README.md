@@ -8,7 +8,7 @@ A vagrant box that provisions Oracle Database automatically, using Vagrant, an O
 ## Getting started
 1. Clone this repository `git clone https://github.com/gvenzl/vagrant-boxes`
 2. Change into the desired version folder
-3. Download the installation zip files from OTN into this folder - first time only (see #5):
+3. Download the installation zip files from OTN into this folder - first time only:
 [http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html](http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)
 4. Run `vagrant up`
    1. The first time you run this it will provision everything and may take a while. Ensure you have a good internet connection!
