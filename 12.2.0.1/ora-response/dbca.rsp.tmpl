@@ -17,3 +17,6 @@ characterSet=###ORACLE_CHARACTERSET###
 nationalCharacterSet=AL16UTF16
 automaticMemoryManagement=FALSE
 totalMemory=1536
+# Some init.ora parameters - disable auditing to save space, enable FS optimizations
+initParams=audit_trail=none,audit_sys_operations=false,filesystemio_options=setall,commit_logging=batch,commit_wait=nowait
+
